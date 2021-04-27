@@ -2,9 +2,9 @@
 This is a machine learning model to predict the possibility of a client paying back their loan in full and on time. 
 
 # Contents
-- notebooks: Jupyter notebooks to walk through data cleaning, EDA, and machine learning pipeline.
+- NPONTU (1).ipynb: Jupyter notebooks to walk through data cleaning, EDA, and machine learning pipeline.
 
-- app: live_app.py contains the source code for Streamlit app, which deploys the machine learning model and provides results from new data.
+- app: npontu4.py contains the source code for Streamlit app, which deploys the machine learning model and provides results from new data.
 - Requirements.txt provides the required packages to deploy the streamlit app via their github sharing service.
 
 - model output: Storing final model deployed in the application and associated model results.
