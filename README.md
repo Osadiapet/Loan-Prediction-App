@@ -1,7 +1,7 @@
 # predicting-The-Posibity-of-a-Client-Paying-Back-Loan-in-Full-and-on-time
 This is a machine learning model to predict the possibility of a client paying back their loan in full and on time. 
 
-#Contents
+# Contents
 notebooks: Jupyter notebooks to walk through data cleaning, EDA, and machine learning pipeline.
 
 app: live_app.py contains the source code for Streamlit app, which deploys the machine learning model and provides results from new data. Requirements.txt provides the required packages to deploy the streamlit app via their github sharing service.
@@ -12,7 +12,7 @@ data: Contains raw data from  and cleaned dataset used for analysis
 
 The raw dataset is in the file "CreditScoring.csv" which contains 4455 rows and 14 columns:
 
-#Data Descrition
+# Data Descrition
 1 Status:	credit status
 2 Seniority:	job seniority (years)
 3 Home:	type of home ownership
