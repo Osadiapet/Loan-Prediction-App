@@ -2,7 +2,7 @@
 This is a machine learning model to predict the possibility of a client paying back their loan in full and on time. 
 
 # Contents
-notebooks: Jupyter notebooks to walk through data cleaning, EDA, and machine learning pipeline.
+- notebooks: Jupyter notebooks to walk through data cleaning, EDA, and machine learning pipeline.
 
 - app: live_app.py contains the source code for Streamlit app, which deploys the machine learning model and provides results from new data. Requirements.txt provides the required packages to deploy the streamlit app via their github sharing service.
 
